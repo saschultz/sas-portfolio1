@@ -6,7 +6,7 @@
 
 ## Description
 
-This application acts as a portfolio landing page for Sara Schultz, a current student at Epicodus. The page details a brief bio about her, her background before Epicodus, and some of her interests. The page also contains links to some of the projects she has made during her first week at Epicodus. The page can be viewed here:
+This application acts as a portfolio landing page for Sara Schultz, a current student at Epicodus. The page details a brief bio about her, her background before Epicodus, and some of her interests. The page also contains links to some of the projects she has made during her first week at Epicodus. The page can be viewed here: https://saschultz.github.io/sas-portfolio1/
 
 ## Setup/Installation Requirements
 
