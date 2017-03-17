@@ -3,14 +3,13 @@
   float: left;
   border-style: solid;
   border-width: thin;
-  padding: 5%;
+  padding: 2%;
   border-color: #967a65;
 }
-.sidebar ul, h3 {
+.sidebar h3 {
   text-align: center;
 }
-.sidebar li {
-  list-style: none;
+.sidebar p {
   text-align: left;
 }
 
