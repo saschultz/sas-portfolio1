@@ -1,22 +1,24 @@
 body {
-  background-color: #d3d0d0;
+  background-image: url("../img/flower.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 /*Styling for jumbotron*/
 .jumbotron {
   display: block;
   text-align: center;
-  background-color: #a6a0a0;
   color: #FEFDFD;
   border-color: #ebd8d2;
   border-style: solid;
+  font-weight: bold;
+  background-color: transparent;
 }
 .jumbotron img {
   border-radius: 50%;
   border-color: #5b5f5c;
   border-style: solid;
   border-width: thick;
-  border
 }
 .jumbotron p {
   font-family: monospace;
