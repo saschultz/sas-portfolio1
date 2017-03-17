@@ -51,6 +51,9 @@ body {
   float: left;
   padding-right: 6px;
 }
+.row .interests {
+  text-align: left;
+}
 #github {
   color: #FEFDFD;
   background-color: #9a90a6;
