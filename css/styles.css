@@ -2,23 +2,6 @@ body {
   background-color: #d3d0d0;
 }
 
-/*Styling for sidebar*/
-.sidebar {
-  float: left;
-  padding: 2%;
-  width: 10%;
-  position: fixed;
-  overflow: auto;
-  margin-top: 15%;
-
-}
-.sidebar h3 {
-  text-align: left;
-}
-.sidebar p {
-  text-align: left;
-}
-
 /*Styling for jumbotron*/
 .jumbotron {
   display: block;
@@ -60,6 +43,7 @@ body {
 }
 .row img {
   float: left;
+  padding-right: 6px;
 }
 #github {
   color: #FEFDFD;
