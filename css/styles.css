@@ -26,6 +26,10 @@
 }
 .jumbotron img {
   border-radius: 50%;
+  border-color: #5b5f5c;
+  border-style: solid;
+  border-width: thick;
+  border
 }
 .jumbotron p {
   font-family: monospace;
@@ -40,6 +44,18 @@
 body {
   background-color: #d3d0d0;
 }
-.container {
-
+.well {
+  border-color: #ebd8d2;
+  border-style: solid;
+}
+.well h3 {
+  color: #5b5f5c;
+  padding: .5%;
+}
+#github {
+  color: #FEFDFD;
+  background-color: #9a90a6;
+}
+.github a:link {
+  color: #232C29;
 }
