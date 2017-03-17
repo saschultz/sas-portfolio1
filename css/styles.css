@@ -55,9 +55,22 @@ body {
   padding: .5%;
   text-align: center;
 }
+.col-md-3 h3 {
+  text-align: left;
+}
 #github {
   color: #FEFDFD;
   background-color: #9a90a6;
+}
+#interests {
+  color: #FEFDFD;
+  background-color: #9a90a6;
+}
+h4 {
+  text-align: center;
+  font-family: monospace;
+  font-style: italic;
+  font-weight: bold;
 }
 .github a:link {
   color: #232C29;
