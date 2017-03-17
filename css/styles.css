@@ -1,3 +1,7 @@
+body {
+  background-color: #d3d0d0;
+}
+
 /*Styling for sidebar*/
 .sidebar {
   float: left;
@@ -41,9 +45,7 @@
   color: #ebd8d2;
 }
 
-body {
-  background-color: #d3d0d0;
-}
+/*Styling for wells*/
 .well {
   border-color: #ebd8d2;
   border-style: solid;
@@ -51,6 +53,7 @@ body {
 .well h3 {
   color: #5b5f5c;
   padding: .5%;
+  text-align: center;
 }
 #github {
   color: #FEFDFD;
