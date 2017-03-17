@@ -40,6 +40,10 @@ body {
   padding: .5%;
   text-align: center;
 }
+#lastWell {
+  background-color: transparent;
+  border-color: transparent;
+}
 .col-md-3 h3 {
   text-align: left;
 }
