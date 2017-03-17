@@ -19,6 +19,11 @@
 .jumbotron {
   display: block;
   text-align: center;
+  background-color: #A3B9CD;
+  color: #FEFDFD;
+  border-color: #797B81;
+  border-style: solid;
+  border-width: thin;
 }
 
 body {
