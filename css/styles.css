@@ -1,5 +1,26 @@
+/*Styling for sidebar*/
 .sidebar {
   float: left;
-  width: 30%;
+  border-style: dotted;
+  border-radius: 50%;
+  padding: 5%;
+  border-width: thin;
+  border-color: #CFE5EC;
+}
+.sidebar ul, h3 {
+  text-align: center;
+}
+.sidebar li {
+  list-style: none;
+  text-align: left;
+}
+
+/*Styling for jumbotron*/
+.jumbotron {
   display: block;
+  text-align: center;
+}
+
+body {
+  background-color: #A5A8B0;
 }
