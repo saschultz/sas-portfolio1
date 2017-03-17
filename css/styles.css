@@ -58,6 +58,9 @@ body {
 .col-md-3 h3 {
   text-align: left;
 }
+.row img {
+  float: left;
+}
 #github {
   color: #FEFDFD;
   background-color: #9a90a6;
