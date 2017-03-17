@@ -1,13 +1,15 @@
 /*Styling for sidebar*/
 .sidebar {
   float: left;
-  border-style: solid;
-  border-width: thin;
   padding: 2%;
-  border-color: #967a65;
+  width: 10%;
+  position: fixed;
+  overflow: auto;
+  margin-top: 15%;
+
 }
 .sidebar h3 {
-  text-align: center;
+  text-align: left;
 }
 .sidebar p {
   text-align: left;
@@ -21,12 +23,23 @@
   color: #FEFDFD;
   border-color: #ebd8d2;
   border-style: solid;
-  /*border-width: thin;*/
 }
 .jumbotron img {
   border-radius: 50%;
 }
+.jumbotron p {
+  font-family: monospace;
+  font-style: italic;
+  font-size: 18px;
+  line-height: 200%;
+}
+.jumbotron a:link {
+  color: #ebd8d2;
+}
 
 body {
   background-color: #d3d0d0;
+}
+.container {
+
 }
